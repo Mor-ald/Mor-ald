@@ -1,10 +1,10 @@
 
 <div id="header" align="center">
-  <h2><strong>Hi there 👋</strong></h2>
+  <h3><strong>Hi there 👋</strong></h3>
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.tproger.ru/uploads/2017/02/donutquine.gif" width="200"/>
+  <img src="https://media.tproger.ru/uploads/2017/02/donutquine.gif" width="400"/>
 </div>
 
 <div id="header-badges" align="center">
@@ -17,9 +17,6 @@
   </a>
   <a href="https://t.me/Mor_Ald">
     <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="Mor.ald@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=ymail&logoColor=white" alt="email Badge"/>
   </a>
 </div>
 
