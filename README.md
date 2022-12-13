@@ -20,10 +20,6 @@
   </a>
 </div>
 
-<div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mor-ald&style=flat-square&color=blue" alt=""/>
-</div>
-
 ---
 <div id="About" align="center">
     <h3><strong>About Me 😄</strong></h3>
