@@ -18,7 +18,13 @@
   <a href="https://t.me/Mor_Ald">
     <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <div>
+    <a href="[https://t.me/Mor_Ald](https://www.codewars.com/users/Mor-ald)">
+      <img src="https://www.codewars.com/users/Mor-ald/badges/micro" alt="CodeWars Badge"/>
+    </a>
+  </div>
 </div>
+
 
 ---
 <div id="About" align="center">
